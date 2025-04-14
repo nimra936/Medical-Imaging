@@ -34,7 +34,7 @@ Run the detection pipeline:
 [tumor_mask, detected_img] = detect_lung_tumor(img);  
 
 View results:
-Gui visualization
+Gui visualization user friendly interaction
 
 File Structure
 Copy
