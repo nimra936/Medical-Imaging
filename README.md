@@ -1,19 +1,4 @@
 # Medical-Imaging
-This repository contains a MATLAB-based algorithm for detecting lung tumors from CT scan images. The pipeline includes:
-
-Preprocessing: Noise reduction using a median filter
-
-Segmentation: Lung extraction using thresholding/morphological operations
-
-Edge Detection: Canny/Sobel for tumor boundary enhancement
-
-Tumor Localization: Region-based analysis to identify malignant areas
-
-Approach:
-✔ Noise Reduction: Median filtering for improved image quality
-✔ Lung Segmentation: Isolates lung region from surrounding tissue
-✔ Tumor Detection: Identifies suspicious masses using edge/contour analysis
-✔ GUI Visualization: Overlays detected tumors on original scans
 
 Installation & Setup
 
